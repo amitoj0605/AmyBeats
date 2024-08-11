@@ -8,10 +8,14 @@ Search Functionality: Quickly find your favorite songs, albums, and artists.
 Responsive Design: Works seamlessly on all devices – desktop, tablet, and mobile.
 Audio Streaming: Enjoy high-quality streaming with a minimalistic player interface.
 Dark Mode: Switch between light and dark themes for a personalized experience.
+
+
  Tech Stack
 Frontend: HTML5, CSS3, JavaScript
 Audio Streaming: Web Audio API
 UI/UX Design: Figma (or any design tool used)
+
+
  UI/UX Design
 Clean and minimalistic design with an emphasis on usability.
 Fully responsive layout to ensure a consistent experience across all devices.
